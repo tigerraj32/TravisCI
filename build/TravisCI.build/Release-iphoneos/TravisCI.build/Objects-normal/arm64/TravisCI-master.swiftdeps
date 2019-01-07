@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "4b0f7b5932cc10860074c3befe55f648"
+build_time: [1546853735, 766621000]
+inputs:
+  "/Users/javra/Desktop/TravisCI/TravisCI/ViewController.swift": [9223372036, 854775807]
+  "/Users/javra/Desktop/TravisCI/TravisCI/AppDelegate.swift": [9223372036, 854775807]
